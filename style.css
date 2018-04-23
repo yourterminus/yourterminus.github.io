@@ -1,3 +1,22 @@
 body {	
 	background-color: #18aecc;
 }
+
+.navBar {
+display: block;
+background-color: red;
+height: 100%;
+width: 120px;
+float: right;
+text-align: center;
+}
+
+hithere{
+   color: #fcec0c;	
+}
+
+.mainTitle  {
+	color: #ffffff;
+	font-family: "castellar";
+	font-size: 24pt;
+}
