@@ -20,3 +20,8 @@ hithere{
 	font-family: "castellar";
 	font-size: 24pt;
 }
+
+h1 {
+	color: #ff9400;
+	text-shadow: 2px 2px #ff0000;
+}

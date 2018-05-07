@@ -1,0 +1,5 @@
+1. Copy and paste an old exploit or tactic page
+2. Rename new page and open it in notepad++, make changes to this new html file.
+3. Add a new link in the navbar for this page.
+4. Copy/Paste this new navbar code into every page on your site.
+5. When you are happy, Commit and Push on GitHub
